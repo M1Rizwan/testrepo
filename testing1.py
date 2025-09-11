@@ -2,4 +2,4 @@
 
 
 print("This is the testing file.")
-purpose = 'Git Testing'
+purpose = 'Git Testing is done.'
